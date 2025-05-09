@@ -1,0 +1,75 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #ffcccb;
+    text-align: center;
+    padding: 50px 20px;
+}
+
+header h1 {
+    font-size: 3em;
+    color: #ff6347;
+}
+
+header p {
+    font-size: 1.5em;
+    color: #ff4500;
+}
+
+header img {
+    width: 200px;
+    border-radius: 50%;
+    margin-top: 20px;
+}
+
+section {
+    padding: 20px;
+    margin: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #ff6347;
+}
+
+.nickname {
+    margin-bottom: 20px;
+}
+
+.nickname h3 {
+    color: #ff4500;
+}
+
+.photo {
+    display: inline-block;
+    margin: 10px;
+}
+
+.photo img {
+    width: 150px;
+    height: 150px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+audio {
+    width: 100%;
+    margin-top: 10px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #ffcccb;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
